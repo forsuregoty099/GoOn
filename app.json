@@ -1,0 +1,7 @@
+{
+  "name": "stuff",
+  "description": " Flagship Proxy Site.",
+  "repository": "https://github.com/forsuregoty099/alk",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["proxy", "filter", "bypass"]
+}
